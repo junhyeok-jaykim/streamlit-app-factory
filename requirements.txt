@@ -1,0 +1,12 @@
+# base
+streamlit
+pandas
+numpy
+joblib
+watchdog
+
+
+# 3rd-party modules
+# https://streamlit.io/components
+st-annotated-text
+
